@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "To use your camera we need you to give us permission.";
+NSPhotoLibraryUsageDescription = "In order to upload media, this app requires permission to access the photo library.";
+NSLocationWhenInUseUsageDescription = "Enable your location to improve your routes.";

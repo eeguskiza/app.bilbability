@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "521585765483",
+    "firebase_url": "https://bilbability-default-rtdb.firebaseio.com",
+    "project_id": "bilbability",
+    "storage_bucket": "bilbability.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521585765483:android:a31a6b130cf34ccdcad52e",
+        "android_client_info": {
+          "package_name": "MARK.I"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521585765483-v5g1p2hmmaduq449ddbhm17ra23951ke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "MARK.I",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "521585765483-r73e1ij6c7m8qrruridg1h52rnc3urb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjyyQqaBnlwoQldJrHQYZTkShExY5JoKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521585765483-r73e1ij6c7m8qrruridg1h52rnc3urb5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "521585765483-mqcr7q8j1jlo3ojjbn1sb9fr8dq2k3sa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "MARK.I"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

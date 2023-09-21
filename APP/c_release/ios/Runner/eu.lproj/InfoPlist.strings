@@ -1,0 +1,3 @@
+NSCameraUsageDescription = "Zure kamera erabiltzeko baimena eman behar diguzu.";
+NSPhotoLibraryUsageDescription = "Multimedia kargatzeko, aplikazio honek argazki liburutegira sartzeko baimena behar du.";
+NSLocationWhenInUseUsageDescription = "Gaitu kokapena zure ibilbideak hobetzeko.";
